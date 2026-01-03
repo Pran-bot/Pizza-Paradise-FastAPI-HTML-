@@ -10,17 +10,16 @@
   <a href="http://localhost:8000/redoc">
     <img src="https://img.shields.io/badge/ReDoc-Docs-blue?style=for-the-badge">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Pran-bot/Pizza-Paradise-FastAPI-HTML-">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/Built%20With-FastAPI-teal?style=for-the-badge&logo=fastapi">
   </a>
+  <a href="http://localhost:8000/">
+    <img src="https://img.shields.io/badge/HTML-Web%20UI-orange?style=for-the-badge&logo=html5">
+  </a>
 </p>
-
 
 Pizza Paradise is a simple example application demonstrating a small pizza-ordering web app built with FastAPI and server-rendered HTML templates. It combines a REST-like JSON API for programmatic access with human-friendly HTML pages for a quick web UI. This repository is ideal for learning FastAPI, template rendering, and serving static assets.
 
